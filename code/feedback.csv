@@ -1,0 +1,4 @@
+feedback_id,ticket_id,rating,comments
+1,1,5,Quick resolution
+2,2,4,Issue resolved but took time
+3,3,2,Still unresolved

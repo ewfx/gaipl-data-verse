@@ -1,0 +1,4 @@
+solution_id,category,description,success_rate
+1,network,Resetting the router,90
+2,hardware,Reinstalling OS,85
+3,software,Patch update,80

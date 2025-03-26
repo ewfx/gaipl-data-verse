@@ -1,0 +1,4 @@
+ticket_id,customer_id,category,description,created_at,resolved_at,resolution,status
+1,101,network,Internet connectivity issue,2025-01-12 08:30,2025-01-12 10:45,Rebooted router,closed
+2,102,hardware,Laptop not booting,2025-01-13 09:00,2025-01-13 11:30,Replaced hard drive,closed
+3,103,software,Unable to install app,2025-01-14 14:00,,Pending investigation,open
